@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "bladecore",
+        "name": "BladeCore",
+        "description": "BladeCore cheat client",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
